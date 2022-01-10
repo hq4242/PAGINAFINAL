@@ -23,6 +23,7 @@
   <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/owl-carousel.css">
 
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
@@ -232,6 +233,99 @@
         </div>
       </div>
     </section>--><!-- #featured-services -->
+
+    <div class="page-content">
+            <section id="featured" class="content-section">
+                <div class="section-heading">
+                    <h1>Complejos<br><em>Arqueologicos</em></h1>
+                    
+                </div>
+                <div class="section-content">
+                    <div class="owl-carousel owl-theme">
+                    <div class="item">
+                            <div class="image">
+                                <img src="img/c.arqueologicos/slider_sillustani.jpg" alt="">
+                                <div class="featured-button button">
+                                    <a href="#projects">seguir leyendo</a>
+                                </div>
+                            </div>
+                            <div class="text-content">
+                                <h4>Sillustani</h4>
+                                
+                                <p>Es un sitio arquitectónico funerario de reinos y señorios (Qolla) e Inca, se pueden observar andenes, chullpas y plazas circulares. Sillustani siginifica "Forma de Uña".</p>
+                            </div>
+                        </div>
+
+
+
+                        <div class="item">
+                            <div class="image">
+                                <img src="img/c.arqueologicos/slider_incauyo.jpg" alt="">
+                                <div class="featured-button button">
+                                    <a href="#projects">seguir leyendo</a>
+                                </div>
+                            </div>
+                            <div class="text-content">
+                                <h4>Inca Uyo</h4>
+                                <p>Ubicado en el distrito de Chucuito. El origen de este sitio Arqueológico ha sido identificado como incaico, debido a sus características de construcción y al uso de material lítico.</p>
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="image">
+                                <img src="img/c.arqueologicos/slider_cutimbo.jpg" alt="">
+                                <div class="featured-button button">
+                                    <a href="#projects">seguir leyendo</a>
+                                </div>
+                            </div>
+                            <div class="text-content">
+                                <h4>Cutimbo</h4>
+                                
+                                <p>Existen Chullpas cuadrangulares, rectangulares y circulares, se pueden ver representaciones zoomorfas en alto relieve (felino, vizcacha, monos, y serpientes).</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="image">
+                                <img src="img/c.arqueologicos/slider_pinturasrupestres.jpg" alt="">
+                                <div class="featured-button button">
+                                    <a href="#projects">seguir leyendo</a>
+                                </div>
+                            </div>
+                            <div class="text-content">
+                                <h4>Pinturas Rupestres</h4>
+                              
+                                <p>Caminata por un tramo conservado del Qhapaq Ñan y un Bosque de Rocas, guiada por la comunidad local de Jayujayuni, organizados para brindar una experiencia de aprendizaje.</p>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="image">
+                                <img src="img/c.arqueologicos/slider_chullpasdemolloco.jpg" alt="">
+                                <div class="featured-button button">
+                                    <a href="#projects">seguir leyendo</a>
+                                </div>
+                            </div>
+                            <div class="text-content">
+                                <h4>Chullpas de Molloc</h4>
+                                
+                                <p>Molloco es un asentamiento preinca de la cultura Lupaca, en el que se evidencia el contacto y fusión de las culturas Inca y Lupaca.</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </section>
+
+
+
+
+
+
+
+
+
+
+
 
     <!--==========================
       About Us Section
