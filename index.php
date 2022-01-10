@@ -55,10 +55,50 @@
           <li><a href="#about">CITY TOUR</a></li>
           <li class="menu-has-children"><a href="">atractivos</a>
           <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+          <li>
+                <a>Atractivos Turísticos</a>
+                <ul>
+                    <li><a href="isla_uros">Isla los Uros</a></li>
+                    <li><a href="isla_taquile">Isla Taquile</a></li>
+                    <li><a href="isla_amantani">Isla Amantani</a></li>
+                </ul>
+                </li>
+                <li>
+                <a>Complejos Arqueologicos</a>
+                <ul>
+                    <li><a href="sillustani">Sillustani</a></li>
+                    <li><a href="incauyo">Inca Uyo</a></li>
+                    <li><a href="cutimbo">Cutimbo</a></li>
+                    <li><a href="pinturas_rupestres">Pinturas Rupestres</a></li>
+                    <li><a href="chullpas_de_molloco">Chullpas de Molloco</a></li>
+                </ul>
+                </li>
+                <li>
+                <a>Turismo Rural</a>
+                <ul>
+                    <li><a href="#">Atuncolla</a></li>
+                    <li><a href="#">Llachón</a></li>
+                    <li><a href="#">Karina</a></li>
+                    <li><a href="#">Luquina Chico</a></li>
+                    <li><a href="#">Escallani</a></li>
+                    <li><a href="#">Ccotos</a></li>
+                    <li><a href="#">Isla Tikonata</a></li>
+                </ul>
+                </li>
+                <li>
+                <a>Nuevos Emprendimientos</a>
+                <ul>
+                    <li><a href="emp_islabalserochimu">Isla Balsero Chimu</a></li>
+                    <li><a href="emp_islabalserotitikaka">Isla Balsero Titikaka</a></li>
+                    <li><a href="emp_islatiti">Isla Titi</a></li>
+                    <li><a href="emp_playitachimu">Playita Chimu</a></li>
+                    <li><a href="emp_centrodeecoartesanias">Centro de Ecoartesanias</a></li>
+                    <li><a href="emp_tunuhuirichico">Tunuhuire Chico</a></li>
+                    <li><a href="emp_tunuhuirigrande">Tunuhuire Grande</a></li>
+                    <li><a href="emp_turismojayujayuni">Turismo Jayujayuni</a></li>
+                    <li><a href="#">Capullani</a></li>
+                </ul>
+                </li>
             </ul>
           <li><a href="#portfolio">ACTIVIDADES</a></li>
           <li><a href="#team">CIRCUITOS TURISTICOS</a></li>
@@ -76,7 +116,7 @@
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
-
+  
   <!--==========================
     Intro Section
   ============================-->
