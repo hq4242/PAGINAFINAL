@@ -76,7 +76,7 @@
                 <li>
                 <a>Turismo Rural</a>
                 <ul>
-                    <li><a href="#">Etuncolla</a></li>
+                    <li><a href="#">Atuncolla</a></li>
                     <li><a href="#">Llachón</a></li>
                     <li><a href="#">Karina</a></li>
                     <li><a href="#">Luquina Chico</a></li>
