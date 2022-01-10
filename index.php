@@ -909,8 +909,8 @@
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>HORARIO DE ATENCIÓN</h4>
             <p class="fa fa-clock-o"> Lunes a Viernes</p>
-                <p>MAÑANA - 8:00 A.M. a 01:00 P.M.</p>
-                <p>TARDE - 02:00 P.M. a 04:00 P.M</p>
+                <p><strong>MAÑANA:</strong> 8:00 A.M. a 01:00 P.M.</p>
+                <p><strong>TARDE:</strong> 02:00 P.M. a 04:00 P.M</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit"  value="Subscribe">
             </form>
