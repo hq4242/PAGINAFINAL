@@ -892,7 +892,7 @@
             <div class="social-links">
               <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="fa fa-steam"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-telegram"></i></a>
               <a href="#" class="youtube"><i class="fa fa-youtube"></i></a>
               <a href="#" class="tiktok"><i class="fa fa-whatsapp"></i></a> 
             </div>
