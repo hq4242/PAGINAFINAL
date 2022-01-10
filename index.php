@@ -80,74 +80,67 @@
   <!--==========================
     Intro Section
   ============================-->
-  <section id="intro">
-    <div class="intro-container">
-      <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
-
-        <ol class="carousel-indicators"></ol>
-
-        <div class="carousel-inner" role="listbox">
-
-          <div class="carousel-item active">
-            <div class="carousel-background"><img src="img/intro-carousel/sl6.jpg" alt=""></div>
-            <div class="carousel-container">
-              <div class="carousel-content">
-                <h2>Museo Carlos Dreyer</h2>
-                <p>Es la reserva histórica de Puno, que conserva y preserva bienes culturales desde las épocas preinca, inca, colonial y republicana.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Ver Mas</a>
-              </div>
+  
+  <div class="slider">
+    <div class="Modern-Slider content-section" id="top">
+        <!-- Item -->
+        <div class="item item-1">
+            <div class="img-fill">
+            <div class="image"></div>
+            <div class="info">
+                <div>
+                  <h1>Beautiful Template<br>Sentra</h1>
+                  <p>Sentra is free Bootstrap CSS Template by templatemo website.<br>
+                    Please share our site link to your friends.</p>
+                  <div class="white-button button">
+                      <a href="#featured">Discover More</a>
+                  </div>
+                </div>
+                </div>
             </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/sl2.jpg" alt=""></div>
-            <div class="carousel-container">
-              <!--<div class="carousel-content">
-                <h2>At vero eos et accusamus</h2>
-                <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-              </div>-->
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/sl4.jpg" alt=""></div>
-            <div class="carousel-container">
-              <!--<div class="carousel-content">
-                <h2>Temporibus autem quibusdam</h2>
-                <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-              </div>-->
-            </div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/sl5.jpg" alt=""></div>
-            <div class="carousel-container">
-              <!--<div class="carousel-content">
-                <h2>Nam libero tempore</h2>
-                <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
-              </div>-->
-            </div>
-          </div>
-
-
         </div>
-
-        <a class="carousel-control-prev" href="#introCarousel" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon ion-chevron-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-
-        <a class="carousel-control-next" href="#introCarousel" role="button" data-slide="next">
-          <span class="carousel-control-next-icon ion-chevron-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-
-      </div>
+        <!-- // Item -->
+        <!-- Item -->
+        <div class="item item-2">
+            <div class="img-fill">
+                <div class="image"></div>
+                <div class="info">
+                <div>
+                  <h1>Please tell <br>your friends</h1>
+                  <p>Support templatemo by sharing a link to your friends.
+      <br>Thank you for helping us.</p>
+                  
+                  <div class="white-button button">
+                      <a href="#featured">Share More</a>
+                  </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- // Item -->
+        <!-- Item -->
+        <div class="item item-3">
+            <div class="img-fill">
+                <div class="image"></div>
+                <div class="info">
+                <div>
+                  <h1>Suspendisse suscipit<br>nulla sed</h1>
+                  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices <br>posuere cubilia Curae; Sed at massa turpis.</p>
+                  
+                  <div class="white-button button">
+                      <a href="#featured">Learn More</a>
+                  </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <!-- // Item -->
     </div>
-  </section><!-- #intro -->
+</div>
+  
+
+
+  <!-- #intro -->
 
   <!--<main id="main">
 
@@ -899,6 +892,8 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main1.js"></script>
 
 </body>
 </html>
