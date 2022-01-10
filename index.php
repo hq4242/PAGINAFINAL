@@ -106,45 +106,25 @@
           <li>
                 <a>RESTAURANTES</a>
                 <ul>
-                <li><a href="http://www.lacasona-restaurant.com">La Casona Restaurant<img src="img/logos/safe.png" alt="" width="60px"></a></li>
+                    <li><a href="http://www.lacasona-restaurant.com">La Casona Restaurant<img src="img/logos/safe.png" alt="" width="60px"></a></li>
                     <li><a href="valeriarestaurant">Valeria Restaurant<img src="img/logos/safe.png" alt="" width="60px"></a></li>
                     <li><a href="restauranttulipans">Restaurant Tulipans<img src="img/logos/safe.png" alt="" width="60px"></a></li>
                 </ul>
                 </li>
                 <li>
-                <a>Complejos Arqueologicos</a>
+                <a>HOTELES</a>
                 <ul>
-                    <li><a href="sillustani">Sillustani</a></li>
-                    <li><a href="incauyo">Inca Uyo</a></li>
-                    <li><a href="cutimbo">Cutimbo</a></li>
-                    <li><a href="pinturas_rupestres">Pinturas Rupestres</a></li>
-                    <li><a href="chullpas_de_molloco">Chullpas de Molloco</a></li>
+                    <li><a href="https://www.casa-andina.com">Casa Andina Premium Puno<img src="img/logos/safe.png" alt="" width="60px"></a></li>
+                    <li><a href="https://www.casa-andina.com">Casa Andina Stándar Puno<img src="img/logos/safe.png" alt="" width="60px"></a></li>
+                    <li><a href="https://en.ghllagotiticaca.com">GHL Lago Titicaca<img src="img/logos/safe.png" alt="" width="60px"></a></li>
                 </ul>
                 </li>
                 <li>
-                <a>Turismo Rural</a>
+                <a>AGENCIAS</a>
                 <ul>
-                    <li><a href="#">Atuncolla</a></li>
-                    <li><a href="#">Llachón</a></li>
-                    <li><a href="#">Karina</a></li>
-                    <li><a href="#">Luquina Chico</a></li>
-                    <li><a href="#">Escallani</a></li>
-                    <li><a href="#">Ccotos</a></li>
-                    <li><a href="#">Isla Tikonata</a></li>
-                </ul>
-                </li>
-                <li>
-                <a>Nuevos Emprendimientos</a>
-                <ul>
-                    <li><a href="emp_islabalserochimu">Isla Balsero Chimu</a></li>
-                    <li><a href="emp_islabalserotitikaka">Isla Balsero Titikaka</a></li>
-                    <li><a href="emp_islatiti">Isla Titi</a></li>
-                    <li><a href="emp_playitachimu">Playita Chimu</a></li>
-                    <li><a href="emp_centrodeecoartesanias">Centro de Ecoartesanias</a></li>
-                    <li><a href="emp_tunuhuirichico">Tunuhuire Chico</a></li>
-                    <li><a href="emp_tunuhuirigrande">Tunuhuire Grande</a></li>
-                    <li><a href="emp_turismojayujayuni">Turismo Jayujayuni</a></li>
-                    <li><a href="#">Capullani</a></li>
+                    <li><a href="http://www.amarutours.com/">Amaru Tours<img src="img/logos/safe.png" alt="" width="60px"></a></li>
+                    <li><a href="https://www.jumbotravel.pe/es/inicio">Jumbo Travel<img src="img/logos/safe.png" alt="" width="60px"></a></li>
+                    <li><a href="http://www.uros-titicaca.com/">Coyla Adventures</a></li>
                 </ul>
                 </li>
             </ul>
